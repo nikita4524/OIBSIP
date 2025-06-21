@@ -24,28 +24,29 @@ Each task helped me strengthen my web development skills and gain hands-on exper
   - Designing with a user-first mindset
 - **Tools Used**: HTML5, CSS3
 - **Screenshot**:
-- ![Image](https://github.com/user-attachments/assets/8c9c44d0-6938-4df8-a080-b1a8d9872064)
-![Image](https://github.com/user-attachments/assets/a08792c0-859b-4fcf-84d6-61fc81a8031d)
+- -![Image](https://github.com/user-attachments/assets/f7654cc8-3159-4e15-8c52-5c378af3b276)
+
 
  
 
 
 
-### 🔹 Task 2: Temperature Converter Web App *(example)*
-- **Objective**: Build a converter tool to switch between Celsius, Fahrenheit, and Kelvin using JavaScript logic.
+### 🔹 Task 2: Portfolio Website
+- **Objective**: Create a personal portfolio that highlights my skills, projects, and contact information.
 - **What I Learned**:
-  - JavaScript DOM manipulation
-  - Real-time input handling
-  - Clean UI for simple tools
-- **Tools Used**: HTML, CSS, JavaScript
-- **Screenshot**:
--![Image](https://github.com/user-attachments/assets/f7654cc8-3159-4e15-8c52-5c378af3b276)
--  
+  - How to organize multiple sections (About, Skills, Projects)
+  - Styling with consistent layout and color scheme
+  - Importance of having a personal portfolio to showcase work
+- **Tech Used**: HTML, CSS
+- **Screenshot**: 
+-   ![Image](https://github.com/user-attachments/assets/8c9c44d0-6938-4df8-a080-b1a8d9872064)
+![Image](https://github.com/user-attachments/assets/a08792c0-859b-4fcf-84d6-61fc81a8031d)
+
   
 
 
 ### 🔹 Task 3: Temperature Converter Web App
-- **Objective**: Build a temperature converter that takes input in one unit (Celsius, Fahrenheit, or Kelvin) and converts it to the other two.
+- **Objective**: Build a temperature converter that takes input in one unit (Celsius, Fahrenheit) and converts it to the other .
 - **What I Learned**:
   - JavaScript DOM manipulation and event handling
   - Real-time input syncing
