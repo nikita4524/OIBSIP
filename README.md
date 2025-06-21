@@ -23,7 +23,9 @@ Each task helped me strengthen my web development skills and gain hands-on exper
   - Styling with CSS Flexbox & media queries
   - Designing with a user-first mindset
 - **Tools Used**: HTML5, CSS3
-- **Screenshot**:  
+- **Screenshot**:
+![Image](https://github.com/user-attachments/assets/a08792c0-859b-4fcf-84d6-61fc81a8031d)
+ ![Image](https://github.com/user-attachments/assets/8c9c44d0-6938-4df8-a080-b1a8d9872064)
  
 
 
@@ -35,9 +37,10 @@ Each task helped me strengthen my web development skills and gain hands-on exper
   - Real-time input handling
   - Clean UI for simple tools
 - **Tools Used**: HTML, CSS, JavaScript
--
-- **Screenshot**:  
-  ![Temperature Converter Screenshot](./Task-2/screenshot.png)
+- **Screenshot**:
+- ![Image](https://github.com/user-attachments/assets/6ac8a468-38b5-4001-822d-3bf50a59a1c7)
+-  
+  
 
 
 ### 🔹 Task 3: Temperature Converter Web App
@@ -47,7 +50,8 @@ Each task helped me strengthen my web development skills and gain hands-on exper
   - Real-time input syncing
   - Form validation and user interaction
 - **Tech Used**: HTML, CSS, JavaScript
-- **Screenshot**: 
+- **Screenshot**:
+- ![Image](https://github.com/user-attachments/assets/fa31dd84-0e9b-40a4-aa90-8ad7bba74dcd)
 
 During this internship, I Improved my confidence with real-world coding Learned how to make clean, responsive layouts  Got better at structuring code and explaining projects
 
