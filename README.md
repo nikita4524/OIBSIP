@@ -17,6 +17,8 @@ Clean, modern UI using flexbox and custom styling
 Tech Stack: HTML, CSS
 
 Preview:
+<img width="1919" height="1010" alt="Image" src="https://github.com/user-attachments/assets/29929d26-95dc-4bc7-8e98-1a1f410f3cd1" />
+
 
 
 
@@ -36,6 +38,8 @@ Tech Stack: HTML, CSS
 
 Preview:
 
+
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b03c00c1-bf26-4599-9f3d-af6d9d791ad7" />
 
 
 
@@ -59,7 +63,7 @@ Tech Stack: HTML, CSS, JavaScript
 
 Preview:
 
-
+<img width="1920" height="1017" alt="Image" src="https://github.com/user-attachments/assets/98d173cc-9a99-4053-81fb-e0cc7f554e7c" />
 
 
 
